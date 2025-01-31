@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsha Rashmi</h1>
 <h3 align="center">2nd year B.Tech student at NIT Jamshedpur with expertise in full-stack development (MERN) and AI/ML. Passionate about coding, problem-solving, and contributing to open-source projects!"</h3>
-<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/cEtzVfurERjnTrfD7](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+
 - ⚡ Fun fact **not only a tech enthusiast but also a state-level chess player and an ace debater who secured 2nd place in the Maharashtra state-level debate competition!**
 
 <h3 align="left">Connect with me:</h3>
@@ -13,4 +14,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha-01-cmd&show_icons=true&locale=en&layout=compact" alt="harsha-01-cmd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-01-cmd&" alt="harsha-01-cmd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-01-cmd" alt="harsha-01-cmd" /></p>
+
