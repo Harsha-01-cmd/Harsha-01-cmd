@@ -87,7 +87,3 @@
 
 ---
 
-### ⚡ Extra Visuals (Optional to Add)
-- **Contribution Snake Animation** 🐍  
-  ```md
-  ![snake gif](https://github.com/Harsha-01-cmd/Harsha-01-cmd/blob/output/github-contribution-grid-snake.svg)
