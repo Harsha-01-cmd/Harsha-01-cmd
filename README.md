@@ -47,15 +47,15 @@
 ## 📊 GitHub Stats & Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-01-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-01-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=F8D866" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha-01-cmd&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha-01-cmd&theme=radical&hide_border=true&background=0D1117&ring=F8D866&fire=FF6E96&currStreakLabel=F8D866" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-01-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-01-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96" alt="Top Languages" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-01-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-01-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Commits,Stars,Followers,PullRequest,Issues,Repositories" />
 </p>
 
 ---
